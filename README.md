@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align = "center"> Chaena Kim </h1>
 
 <br></br>
-## ✨ ABOUT ME ✨
+<h3>✨ ABOUT ME ✨</h3>
   
 - 👩🏻‍💻 Unity Developer
 
