@@ -26,5 +26,4 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <h3>✨ Language ✨</h3>
-
- <img style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+ <img src="https://img.shields.io/badge/-Korea-blue" style="height : auto; margin-left : 10px; margin-right : 10px;"/>  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
