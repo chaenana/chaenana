@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div>
 <h3>✨ Introduction ✨</h3>
-👩🏻‍💻  Hi there! I'm full stack De-veloper skilled in Design and Unity 3ds.
+👩🏻‍💻  Hi there! I'm full stack Developer skilled in Design and Unity 3ds.
 I have experience 3 years of Unity Prototype Development. Also, Have experience of Interactive Media arts.
 For the past year, I have been interested in creating user Interactive Media arts and Mobile Game.
 Sometimes I design & develop Mobile game like Simple Touch Game.
