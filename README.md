@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=header&text=Chaena Kim%&fontSize=90" />
 
-<h1 align = "center"> Chaena Kim </h1>
 <br></br>
 <h3>✨ ABOUT ME ✨</h3>
   
