@@ -16,11 +16,15 @@ Here are some ideas to get you started:
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20Chaena&fontSize=60&fontAlignY=50&fontAlign=85&descAlignY=70&descAlign=85&&animation=twinkling)
 
-<br></br>
 
 <div>
 <h3>✨ Introduction ✨</h3>
-👩🏻‍💻 Hi there! I'm
+👩🏻‍💻 Hi there! I'm full stack developer skilled in API, WEB, and APP.🚀
+I have experience 7 years of Android development and 2 years of iOS development.
+For the past year, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.
+Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)
+ 
+ 
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
