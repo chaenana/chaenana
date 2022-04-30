@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20YoonMin&fontSize=60&fontAlignY=25&fontAlign=75&descAlignY=70&descAlign=80&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20YoonMin&fontSize=60&fontAlignY=50&fontAlign=75&descAlignY=60&descAlign=80&&animation=twinkling)
 
 <br></br>
 
