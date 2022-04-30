@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <h1 align = "center"> Chaena Kim </h1>
 <br></br>
