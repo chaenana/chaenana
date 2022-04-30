@@ -35,5 +35,5 @@ I hope to develop every beautiful things. ✨ <br/><br/>
 #### Tools
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" style="height : 20px;"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="height : 20px;"/> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" style="height : 20px"/>
 
-### 💪 Language
+### 🎤 Language
 🇰🇷 Korean | 🇺🇸 English | 🇯🇵 Japaness
