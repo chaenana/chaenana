@@ -25,7 +25,7 @@ For the past year, I have been interested in creating user Interactive Media art
 Sometimes I design & develop Mobile game like Simple Touch Game.
 <br/><br/>
  
-I enjoy baking, drawing illustration. ⛰ 🏄<br/>
+I enjoy baking, drawing illustration. 🥐 🎨<br/>
 I hope to develop every beautiful things. ✨ <br/><br/>
  </div>
  
