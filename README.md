@@ -25,7 +25,8 @@ For the past year, I have been interested in creating user Interactive Media art
 Sometimes I design & develop Mobile game like Simple Touch Game.
 <br/><br/>
  
- dd
+I enjoy baking, drawing illustration. ⛰ 🏄<br/>
+I hope to develop every beautiful things. ✨ <br/><br/>
  </div>
  
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
