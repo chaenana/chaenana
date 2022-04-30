@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=header&text=Chaena Kim&fontSize=70" />
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20YoonMin&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
 <br></br>
-<h3>✨ ABOUT ME ✨</h3>
+<h3>✨ Introduction ✨</h3>
   
 - 👩🏻‍💻 Unity Developer
 
