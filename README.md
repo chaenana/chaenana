@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 <div>
 <h3>✨ Introduction ✨</h3>
-👩🏻‍💻 Hi there! I'm full stack developer skilled in API, WEB, and APP.🚀
-I have experience 7 years of Android development and 2 years of iOS development.
-For the past year, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.
-Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)
- 
+👩🏻‍💻  Hi there! I'm full stack De-veloper skilled in Design and Unity 3ds.
+I have experience 3 years of Unity Prototype Development. Also, Have experience of Interactive Media arts.
+For the past year, I have been interested in creating user Interactive Media arts and Mobile Game.
+Sometimes I design & develop Mobile game like Simple Touch Game.
+ </div>
  
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
