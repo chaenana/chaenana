@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20Chaena&fontSize=60&fontAlignY=50&fontAlign=85&descAlignY=70&descAlign=85)
 
 ### ✨ Introduction ✨
-👩🏻‍💻  Hi there! I'm full stack Developer skilled in Design and Unity 3ds.
+👩🏻‍💻  Hi there! I'm full stack Developer skilled in Design and Unity 3ds.<br/>
 I have experience 3 years of Unity Prototype Development. Also, Have experience of Interactive Media arts.
 I worked as a UIUX prototype developer for Unity for the past three years.
 Also For the past year, I have been interested in creating user Interactive Media arts and Mobile Game.
