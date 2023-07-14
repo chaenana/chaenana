@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 👩🏻‍💻  Hi there! I'm full stack Developer skilled in Design and Unity 3ds.<br/>
 I have experience 4 years of Unity Prototype / Game Development. Also, Have experience of Interactive Media arts.<br/>
 I worked as a UI/UX prototype developer for Unity for the past three years.<br/>
-And, now I'm belong to Gentle Monster New Media Team as a Development Manager.
+And, now I'm belong to Gentle Monster New Media Team as a Development Manager.<br/>
 For the past year, I have been interested in creating user Interactive Media arts and Mobile Game.<br/>
 Sometimes I design & develop Mobile game like Simple Touch Game.
 <br/><br/>
